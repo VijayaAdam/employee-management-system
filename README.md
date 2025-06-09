@@ -69,11 +69,3 @@ A full-stack Employee Management System using:
 1. On successful login, a JWT token is saved to localStorage.
 2. This token is sent in the Authorization header for all secure API calls.
 3. Token is validated in Spring Boot using Bearer <token> format.
-
----
-
-## Sample Credentials
-
-```bash
-Username: admin
-Password: admin123

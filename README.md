@@ -12,7 +12,7 @@ A full-stack Employee Management System using:
 ##  Features
 
 - Register and login with JWT authentication
-- Create, View, Edit and Delete employees
+- Create, Read, Update and Delete employees
 - Token-based API security
 - CORS enabled to allow frontend-backend communication
 
